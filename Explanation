@@ -1,0 +1,8 @@
+The source data is downloaded from kaggle.
+It consist of 42,000 records of data.
+So I used first 21,000 data records to train the decision classification tree.
+Next 21,000 to predict the model and stored the values of predicted data in a list.
+After that I displayed a random record in test data using matplotlib as 28 * 28 matrix.
+Then I printed the  output/label by passing the same record as index in list  which I got from model.
+
+-- thank you...
